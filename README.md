@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gisela✨</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
+<h3 align="center">Quality Assuranse Tester</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
